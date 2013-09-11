@@ -1,7 +1,7 @@
 hack-night-25-september
 =======================
 
-You can win some Github stickers and specilally made github themed t-shirts.
+If you are a UK Rackspace tech and coming to the 25 September Hacknight, you can win some Github stickers and specilally made github themed t-shirts.
 
 How?
   -  Clone this repo
